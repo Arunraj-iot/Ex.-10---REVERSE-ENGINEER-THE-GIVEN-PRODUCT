@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/c35bbeae-2d8d-4c0a-96c8-8097ca42eb25)
+![image](https://github.com/user-attachments/assets/310f3635-4ee8-4595-aa9f-79f1ba9290db)
 
 
-### Name:
-### Register Number:
+
+### Name: AHAMED SAHUL HAMEED M
+### Register Number: 212224040016
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
