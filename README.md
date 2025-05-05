@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 29-04-25
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -40,8 +40,8 @@
 
 
 
-### Name: AHAMED SAHUL HAMEED M
-### Register Number: 212224040016
+### Name: ARUNRAJ R
+### Register Number: 212224110006
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
